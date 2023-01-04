@@ -206,6 +206,9 @@ section {
 .feature-a{
 	color: rgb(0, 0, 0);
 }
+.feature-a:hover {
+	color: rgb(255, 45, 45);
+}
 
 hr {
 	width: 134px;
